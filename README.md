@@ -26,10 +26,10 @@
 
 ## 📌 Projetos em destaque
 
-- [🧮 Calculadora](https://github.com/SEU_USUARIO/NOME_REPOSITORIO_CALCULADORA)  
+- [🧮 Calculadora](https://github.com/ONandoTI/projeto-calculadora)  
   Uma calculadora simples desenvolvida com HTML, CSS e JavaScript, com funções básicas e um layout responsivo.
 
-- [⏰ Despertador](https://github.com/SEU_USUARIO/NOME_REPOSITORIO_DESPERTADOR)  
+- [⏰ Despertador](https://github.com/ONandoTI/projetodespertador)  
   Projeto de despertador com interface amigável, desenvolvido em JavaScript, permitindo definir horários e emitir alertas sonoros.
 
 ---
